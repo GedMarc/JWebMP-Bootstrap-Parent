@@ -1,21 +1,28 @@
 [submodule "Bootstrap"]
 	path = Bootstrap
 	url = https://github.com/GedMarc/JWebMP-Bootstrap4.git
+	ignore=dirty
 [submodule "BootstrapDialog"]
 	path = BootstrapDialog
 	url = https://github.com/GedMarc/Bootstrap-Dialog4.git
+	ignore=dirty
 [submodule "BootstrapToggle"]
 	path = BootstrapToggle
 	url = https://github.com/GedMarc/JWebMP-Bootstrap-Switch4.git
+	ignore=dirty
 [submodule "BootstrapTagsInput"]
 	path = BootstrapTagsInput
 	url = https://github.com/GedMarc/Bootstrap-Tags-Input4.git
+	ignore=dirty
 [submodule "BootstrapDateTimePicker"]
 	path = BootstrapDateTimePicker
 	url = https://github.com/GedMarc/JWebMP-BS4DateTimePickerPlugin.git
+	ignore=dirty
 [submodule "BootstrapNyaSelect"]
 	path = BootstrapNyaSelect
 	url = https://github.com/GedMarc/Bootstrap-Nya-Select4.git
+	ignore=dirty
 [submodule "Bootswatch"]
 	path = Bootswatch
 	url = https://github.com/GedMarc/JWebMP-Bootswatch4.git
+	ignore=dirty
