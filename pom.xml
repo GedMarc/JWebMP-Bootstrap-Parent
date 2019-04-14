@@ -18,6 +18,12 @@
             <id>devkit</id>
             <modules>
                 <module>Bootstrap</module>
+                <module>BootstrapDateTimePicker</module>
+                <module>BootstrapDialog</module>
+                <module>BootstrapNyaSelect</module>
+                <module>BootstrapTagsInput</module>
+                <module>BootstrapToggle</module>
+                <module>Bootswatch</module>
             </modules>
         </profile>
     </profiles>
