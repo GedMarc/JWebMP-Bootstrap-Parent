@@ -24,6 +24,7 @@
                 <module>BootstrapTagsInput</module>
                 <module>BootstrapToggle</module>
                 <module>Bootswatch</module>
+				<module>BootstrapProSidebar</module>
             </modules>
         </profile>
     </profiles>

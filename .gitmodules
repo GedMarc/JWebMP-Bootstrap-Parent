@@ -26,3 +26,6 @@
 	path = Bootswatch
 	url = https://github.com/GedMarc/JWebMP-Bootswatch4.git
 	ignore=dirty
+[submodule "BootstrapProSidebar"]
+	path = BootstrapProSidebar
+	url = https://github.com/GedMarc/JWebMP-BootstrapProSidebar.git
