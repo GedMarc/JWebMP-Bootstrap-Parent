@@ -6,11 +6,14 @@
         <artifactId>jwebmp-plugins-modules</artifactId>
         <version>0.0.0_0-SNAPSHOT</version>
     </parent>
+
     <groupId>com.jwebmp.plugins.bootstrap</groupId>
     <artifactId>jwebmp-plugins-bootstrap-parent</artifactId>
     <packaging>pom</packaging>
 
+
     <name>Bootstrap Modules</name>
+
     <description>The root module packager for the finalized or modules with no intention of moving to JPMS</description>
 
     <modules>
