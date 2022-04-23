@@ -23,13 +23,14 @@
             <id>enable-plugins</id>
             <modules>
                 <module>Bootstrap</module>
-                <module>BootstrapDateTimePicker</module>
+                <!--<module>BootstrapDateTimePicker</module>-->
                 <module>BootstrapDialog</module>
-                <module>BootstrapNyaSelect</module>
-                <module>BootstrapTagsInput</module>
-                <module>BootstrapToggle</module>
-                <module>Bootswatch</module>
-                <module>BootstrapProSidebar</module>
+                <!--<module>BootstrapNyaSelect</module>-->
+                <!--<module>BootstrapTagsInput</module>-->
+                <!--<module>BootstrapToggle</module>-->
+				
+                <!--<module>Bootswatch</module>-->
+                <!--<module>BootstrapProSidebar</module>-->
             </modules>
 
         </profile>
